@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: rgba(0, 0, 0, .575);
 			color: #c7ebe8;
 		}
 
@@ -2730,7 +2730,7 @@
 			}
 
 			.wrapper.style1 .icon.major {
-				border-color: rgba(0, 0, 0, 0.125);
+				/*border-color: rgba(0, 0, 0, 0.125);*/
 			}
 
 			.wrapper.style1 ul.alt li {
@@ -2799,7 +2799,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #505393;
+			background-color: #304434;
 			color: #d3d4e4;
 		}
 
